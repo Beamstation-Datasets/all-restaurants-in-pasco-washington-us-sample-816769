@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5999c7be-07fa-4d52-905c-c10c2b250475",
+  "id_short": 816769,
+  "published_at": "2026-04-13T07:50:02Z",
+  "repo_name": "all-restaurants-in-pasco-washington-us-sample-816769",
+  "sample_asset_name": "beamstation_816769_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/816769/beamstation_816769_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_records": 17,
+  "sample_sha256": "58931a029a7d8113153466c5ed8d3e5f1aaf1121dfa5ab416444c7c165f03a43",
+  "sample_size_bytes": 78747,
+  "total_records": 173
+}
