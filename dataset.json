@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Pasco, Washington. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Pasco, Washington, US",
+  "export_job_id": "5999c7be-07fa-4d52-905c-c10c2b250475",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 816769,
+  "location_name": "Pasco",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-pasco-washington-us-sample-816769",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/816769/beamstation_816769_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_pct": 9.83,
+  "sample_records": 17,
+  "sample_sha256": "58931a029a7d8113153466c5ed8d3e5f1aaf1121dfa5ab416444c7c165f03a43",
+  "sample_size_bytes": 78747,
+  "total_records": 173,
+  "updated_at": "2026-03-31T14:09:33.135226+00:00"
+}
