@@ -1,6 +1,6 @@
 # All Restaurants in Pasco, Washington, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 21 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `816769` |
 | Location | Pasco |
 | Category | Restaurants |
-| Full dataset size | 204 records |
-| Free sample size | 20 records (9.8%) |
-| Last export | 2026-04-28T16:39:07.253539+00:00 |
+| Full dataset size | 212 records |
+| Free sample size | 21 records (9.91%) |
+| Last export | 2026-05-06T15:41:33.587052+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-pasco-washington-us-sample-816769/releases/download/sample-latest/beamstation_816769_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
